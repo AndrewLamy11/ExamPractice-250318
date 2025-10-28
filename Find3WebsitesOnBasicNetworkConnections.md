@@ -6,4 +6,4 @@
 
 [CompTIA](https://www.comptia.org/en-us/blog/use-a-troubleshooting-methodology-for-more-efficient-it-support)
 
-[BroadBandNow](Broadbandnow.com/guides/how-to-troubleshoot-wifi-not-working)
+[BroadBandNow](https://broadbandnow.com/guides/how-to-troubleshoot-wifi-not-working)
