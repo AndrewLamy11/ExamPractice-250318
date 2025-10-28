@@ -12,7 +12,7 @@
 > Create a file with the URL of the site you looked at and the questions that  that you should ask the end user.
 
 ### Research Link:
-[Microsoft Support](https://support.microsoft.com/en-us/windows/fix-wi-fi-connection-issues-in-windows-9424a1f7-6a3b-65a6-4d78-7f07eee84d2c?utm_source=chatgpt.com)
+[Microsoft Support](https://support.microsoft.com/en-us/windows/fix-wi-fi-connection-issues-in-windows-9424a1f7-6a3b-65a6-4d78-7f07eee84d2c?)
 
 ### Potential Questions To Ask:
 <ul>
